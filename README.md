@@ -37,7 +37,7 @@ Feel free to explore, test, and refine the scripts for your own trading systems 
    Run the script on historical data and different market conditions to ensure it meets your needs before using it with real capital.
 
 
-
+-
 **A Comprehensive Collection of Everything Related to Tradingview Pine Script.**
 
 ## Table of Contents
