@@ -5,6 +5,7 @@ This repository is dedicated to storing and sharing PineScript strategies and in
 ## Table of Contents
 
 - [PineScript Strategies and Indicators Repository](#pinescript-strategies-and-indicators-repository)
+
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
