@@ -209,4 +209,3 @@ Need to automate your Pine script for real order execution?
 
 ## Contributing
  - [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
- 
