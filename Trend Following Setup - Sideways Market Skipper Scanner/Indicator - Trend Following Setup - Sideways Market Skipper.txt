@@ -1,5 +1,6 @@
 // This Pine Script™ code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 
+
 //@version=5
 indicator(title='Trend Following Setup - Sideways Market Skipper', shorttitle='Sideways Skip', overlay=false, max_bars_back=500)
 
