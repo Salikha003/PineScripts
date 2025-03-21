@@ -1,5 +1,6 @@
 // This Pine Script™ code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 
+
 //@version=5
 indicator(title='Momentum Setup: RSI Direction Confirmation', shorttitle='RSI Dir Conf', overlay=false, max_bars_back=500, max_lines_count=500, max_boxes_count=500)
 
